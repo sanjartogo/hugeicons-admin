@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.addNew {
+  position: relative;
+  width: 35%;
+  height: 100vh;
+  text-align: center;
+}
+.addNew .addNewIcon {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 15px;
+  gap: 10px;
+}
